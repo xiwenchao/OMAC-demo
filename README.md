@@ -14,7 +14,7 @@ In this project, we define five optimization points for a multi-agent collaborat
 
 5. **Str-3**: Optimize an LLM-powered controller to determine how agents communicate with each other during collaboration process.
 
-The code and data are provided as a demon application on general reasoning tasks. The paper is in submission, and we will release the whole code and data after the paper is accepted. The demon experiments are conducted on the [MMLU](https://github.com/hendrycks/test) dataset.
+The code and data are provided as a demo application on general reasoning tasks. The paper is in submission, and we will release the whole code and data after the paper is accepted. The demo experiments are conducted on the [MMLU](https://github.com/hendrycks/test) dataset.
 
 ## Structure of the folder
 
